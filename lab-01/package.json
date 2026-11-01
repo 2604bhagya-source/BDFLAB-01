@@ -1,0 +1,22 @@
+{
+  "name": "lab-01-node-express-server",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Node.js and Express server lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:basic": "node basic-server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend",
+    "lab"
+  ],
+  "author": "[Enter Your Name]",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
